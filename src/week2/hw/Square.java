@@ -13,6 +13,7 @@ public class Square extends Shape {
     private double sideC;
     private double sideD;
 
+
     public Square(double sideA, double sideB, double sideC, double sideD) {
         this.sideA = sideA;
         this.sideB = sideB;
@@ -28,5 +29,15 @@ public class Square extends Shape {
     @Override
     double area() {
         return sideA * sideB;
+    }
+
+    @Override
+    public String toString() {
+        return "Square{" +
+                "sideA=" + sideA +
+                ", sideB=" + sideB +
+                ", sideC=" + sideC +
+                ", sideD=" + sideD +
+                '}';
     }
 }
