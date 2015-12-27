@@ -1,4 +1,4 @@
-package week2.hw;
+package week2.hw.hw1;
 
 /**
  * Создайте класс Point в котором есть два свойства double x

@@ -1,4 +1,4 @@
-package week2.hw;
+package week2.hw.hw1;
 
 /**
  * Created by acer on 22.12.2015.

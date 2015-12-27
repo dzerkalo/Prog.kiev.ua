@@ -1,6 +1,4 @@
-package week2.hw;
-
-import week1.hw.task2.Triangle;
+package week2.hw.hw1;
 
 /**
  * Created by acer on 22.12.2015.
